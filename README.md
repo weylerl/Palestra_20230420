@@ -6,8 +6,9 @@
 
 ## Links
 
-* **Figma** - *Initial work* - [PurpleBooth]([https://github.com/PurpleBooth](https://www.figma.com/))
+* **Figma** - *Initial work* - [PurpleBooth]([https://www.figma.com/])
 
+https://www.figma.com/
 
 > This is a paragraph.
 >
